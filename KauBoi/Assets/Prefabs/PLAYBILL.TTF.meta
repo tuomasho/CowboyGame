@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 412ad6299cd12a7469fe8716b4d1c0bf
+timeCreated: 1509016662
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Playbill
+  fontNames:
+  - Playbill
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
